@@ -8,7 +8,7 @@ The number inputted will be used in naming input files.
 Method overloading was used on the getFileNumber method. Based on the number of arguments, this 
 method will either get input from the keyboard or from the command line.
 
-## GradeItem Class
+## GradeItem Class - 271 lines
 This class thoroughly validates arguments and then creates a grade for a student.
 Each grade item has a; student ID, grade item ID, course ID, date, etc - All these are
 relevant to a typical grade.
